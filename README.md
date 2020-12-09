@@ -19,9 +19,9 @@
 # ENJOY 
 # VISIT https://www.facebook.com/md.kausarislam.9279 
 # RUN
- git clone https://github.com/mdkausar295/All-brute-force
- cd All-brute-force
- ls
- python2 Md-Kausar.py
+#git clone https://github.com/mdkausar295/All-brute-force
+#cd All-brute-force
+#ls
+#python2 Md-Kausar.py
 # USE PYTHON2
 # THANKS
